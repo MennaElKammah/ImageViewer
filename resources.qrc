@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/1402-256.png</file>
+        <file>images/exit.png</file>
+        <file>images/folder (3).png</file>
+        <file>images/image viewer icon.png</file>
+        <file>images/redo.png</file>
+        <file>images/reset.png</file>
+        <file>images/save.png</file>
+        <file>images/select.png</file>
+        <file>images/shape_rotate_anticlockwise.png</file>
+        <file>images/shape_rotate_clockwise.png</file>
+        <file>images/undo.png</file>
+        <file>images/Zoom In.png</file>
+        <file>images/Zoom Out.png</file>
+    </qresource>
+</RCC>
